@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nick-generiico
-- 👀 I’m interested in just me
-- 🌱 I’m currently learning Admistration and security
-- 💞️ I’m looking to collaborate on me
-- 📫 How to reach me my alternative email (harashimanagazap@gmail.com) i'm brazilian so talk to me in portuguese
+- 👋 Hi, my name is Rafael Adania but pls call me Dani or Nick
+- 👀 I'm not interested in nothing
+- 🌱 I’m currently learning Admistration, security and my english it's not good but i can understand
+- 💞️ I’m looking to collaborate...i don't know
+- 📫 To reach me my alternative email (harashimanagazap@gmail.com) i'm brazilian so talk to me in portuguese, please
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm volleyball player but i just watch animes and play video games (i'm setter)
+- ⚡ Fun fact: i'm volleyball player (i'm setter), but i just watch animes and play video games 
 
 <!---
 nick-generiico/nick-generiico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
