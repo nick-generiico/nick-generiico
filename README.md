@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate...i don't know
 - 📫 To reach me my alternative email (harashimanagazap@gmail.com) i'm brazilian so talk to me in portuguese, please
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm volleyball player (i'm setter), but i just watch animes and play video games 
+- ⚡ Fun fact: i'm volleyball player "i'm setter", but i just watch animes and play video games 
 
 <!---
 nick-generiico/nick-generiico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
